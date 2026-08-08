@@ -15,3 +15,5 @@ Streamlit, Pandas, Plotly.
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+Playbook complet (Définitions/Process/Documentation/Templates) : [`PLAYBOOK.md`](PLAYBOOK.md).
