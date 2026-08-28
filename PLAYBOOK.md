@@ -2,6 +2,7 @@
 
 > Guide opératoire structuré en 4 volets (Définitions / Process / Documentation / Templates).
 > Projet personnel (POC), données simulées, aucun outil ERP/CRM propriétaire — voir [`README.md`](README.md).
+> **Dernière mise à jour** : 08/08/2026
 
 ---
 
